@@ -1,5 +1,7 @@
 # Python Client for Yousign API
 
+[![Join the chat at https://gitter.im/Yousign/yousign-api-client-python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Yousign/yousign-api-client-python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Description
 
 This client allows to use the Yousign Soap API through Python.
